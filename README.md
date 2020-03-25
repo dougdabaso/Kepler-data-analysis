@@ -13,3 +13,4 @@ lightcurve_analysis
 New function and classes: to be updated
 
 Doug Souza, March 2020
+dougdabaso@gmail.com
